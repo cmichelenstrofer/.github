@@ -1,29 +1,16 @@
 ---
 name: "\U0001F41B Bug report"
 about: Create a report to help us improve
-title: "\U0001F41B BUG: <Title>"
+title: "\U0001F41B Bug Report: <Title>."
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-`<A clear and concise description of what the bug is.`>
+## 🚨 Checklist
+- [ ] Clear and concise description of the bug.
+- [ ] Steps to reproduce the bug, including a [minimal working example](https://stackoverflow.com/help/minimal-reproducible-example).
+- [ ] Describe the expected vs observed behavior
+- [ ] Describe your system (operating system, Julia version, versions of packages, etc.)
 
-**To Reproduce**
-`<Steps to reproduce the behavior>`
-
-**Expected behavior**
-`<A clear and concise description of what you expected to happen.>`
-
-**Observed behavior**
-`<Wrong solution or errors. Include error logs if applicable.>`
-
-**System**
- - OS: `<e.g. Ubuntu 20.04>`
- - Julia version: `<e.g. 1.2.0>`
- - Package version: `<e.g. 0.1.0>`
- - Any other relevant packages versions: `<e.g. Unitful 1.2.1>`
-
-**Additional information**
-`<Add any other context about the problem here.>`
+## Bug Report
