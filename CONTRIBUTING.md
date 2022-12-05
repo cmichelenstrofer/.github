@@ -20,7 +20,8 @@ Be sure to:
   - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow).
   - Follow [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle) for code formatting. 
   - Follow as much as possible the workflow and recommendations in [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle).
-  - Your submissions are understood to be under the same [MIT License](LICENSE.md) that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
+  - Familiarize yourself with the documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
+  - Your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
   
 ## Community Standards
 Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) and [report any abuse to me](mailto:c.michelen.strofer@gmail.com). 
@@ -34,3 +35,4 @@ This document describes the contributing guidelines for all my repos. The mentio
   - **Issues page**: `https://github.com/cmichelenstrofer/<repo>/issues`
   - **Pull requests**: `https://github.com/cmichelenstrofer/<repo>/pulls`
   - **Good first issues**: `https://github.com/cmichelenstrofer/<repo>/contribute`
+  - **MIT License**: `https://github.com/cmichelenstrofer/<repo>/blob/main/LICENSE`
