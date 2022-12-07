@@ -1,5 +1,5 @@
 # Contributing 🎊
-Community contributions are welcomed!
+Community contributions are welcome!
 
 ## Types of contributions
 There are many ways to contribute to the code and community: 
