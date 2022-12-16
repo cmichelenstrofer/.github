@@ -14,7 +14,7 @@ There are many ways to contribute to the code and community:
   - 👯 Want to **collaborate** on a project? ==> [Contact me](mailto:c.michelen.strofer@gmail.com).
 
 ## Contributing changes 
-Contribute changes (code ,documentation, etc.) through pull requests. 
+Contribute changes (code, documentation, etc.) through pull requests. 
 Feel free to start with a draft pull request and we can work from there together! 
 Be sure to: 
   - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow).
