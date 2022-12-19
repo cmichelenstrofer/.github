@@ -14,14 +14,33 @@ There are many ways to contribute to the code and community:
   - 👯 Want to **collaborate** on a project? ==> [Contact me](mailto:c.michelen.strofer@gmail.com).
 
 ## Contributing changes 
+
+[![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac) 
+
 Contribute changes (code, documentation, etc.) through pull requests. 
-Feel free to start with a draft pull request and we can work from there together! 
-Be sure to: 
-  - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow).
-  - Follow [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle) for code formatting. 
-  - Follow as much as possible the workflow and recommendations in [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle).
+Feel free to start with a draft pull request and we can work from there together!  
+
+When contributing be sure to: 
+  - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). 
+  - Follow the [ColPrac guide for collaborative practices](https://docs.sciml.ai/ColPrac/stable/).
+  - Follow the style guide described below.
   - Familiarize yourself with the documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
-  - Your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
+  - Know that your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
+
+### Style
+[![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle)
+
+For the most part this project follows the [SciML Code Style](https://docs.sciml.ai/SciMLStyle/stable/), except for:
+
+  - Do not import more than one package with the same `using`/`import` statement.
+  - If a function definition/call exceeds the character limit, put one argument per line. 
+
+Be sure to familiarize yourself with both the SciML Code Style and this project's practices (by studying the source code).
+The project's repository includes the following two files to assist developers:
+
+  - `.JuliaFormatter.toml`: Should be used to format the code using [JuliaFormatter](https://domluna.github.io/JuliaFormatter.jl/stable/) before pushing.
+  - `.project-words.txt`: A list of words that should be ignored by your spellchecker. 
+ 
   
 ## Community Standards
 Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) and [report any abuse to me](mailto:c.michelen.strofer@gmail.com). 
