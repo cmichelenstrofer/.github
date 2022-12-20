@@ -1,8 +1,8 @@
 # Contributing 🎊
 Community contributions are welcome!
 
-## Types of contributions
-There are many ways to contribute to the code and community: 
+### Types of contributions
+There are many ways to contribute to the code and community:
   - 🐛 Found a **bug**? ==> Create a bug report in the repo's *issues page*.
   - ✨ Have an **idea** for a new feature? ==> Suggest it in the repo's *issues page*.
   - ❓ Have a **question?** ==> Yep, ask in the repo's *issues page*. Anything from basic usage to more advanced questions.
@@ -13,21 +13,34 @@ There are many ways to contribute to the code and community:
   - 🚨 Identified a **security** vulnerability? ==> See the [security poilicy](/security). 
   - 👯 Want to **collaborate** on a project? ==> [Contact me](mailto:c.michelen.strofer@gmail.com).
 
-## Contributing changes 
+## Community Standards 🌱 💜
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) and [report any abuse](mailto:c.michelen.strofer@gmail.com). 
+Remember that open source source development is a social process and we are in this together. 
+  - Be respectful and inclusive, everyone should feel welcomed. 
+  - Give credit. Respect copyright right laws. Acknowledge others that have helped you. 
+  - Any type of harrassment, including prejudiced or inapproriate comments and jokes, personal attacks, etc. will not be tolerated. 
+
+## Contributing changes 🛠️
 
 [![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac) 
 
-Contribute changes (code, documentation, etc.) through pull requests. 
-Feel free to start with a draft pull request and we can work from there together!  
+Contribute changes, including code and documentation, through *pull requests*. 
 
-When contributing be sure to: 
+**New contributors**:
+While it is important for a project to have well defined practices, don't feel like you need to read/understand all of it right away! 
+At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) and start with a draft pull request. We can work from there together! 🤓
+
+**Development practices**:  
   - Use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). 
   - Follow the [ColPrac guide for collaborative practices](https://docs.sciml.ai/ColPrac/stable/).
   - Follow the style guide described below.
   - Familiarize yourself with the documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
   - Know that your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
 
-### Style
+### Style 😎
 [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle)
 
 For the most part this project follows the [SciML Code Style](https://docs.sciml.ai/SciMLStyle/stable/), except for:
@@ -40,16 +53,8 @@ The project's repository includes the following two files to assist developers:
 
   - `.JuliaFormatter.toml`: Should be used to format the code using [JuliaFormatter](https://domluna.github.io/JuliaFormatter.jl/stable/) before pushing.
   - `.project-words.txt`: A list of words that should be ignored by your spellchecker. 
- 
-  
-## Community Standards
-Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) and [report any abuse to me](mailto:c.michelen.strofer@gmail.com). 
-Remember that open source source development is a social process and we are in this together. 
-  - Be respectful and inclusive, everyone should feel welcomed. 
-  - Give credit. Respect copyright right laws. Acknowledge others that have helped you. 
-  - Any type of harrassment, including prejudiced or inapproriate comments and jokes, personal attacks, etc. will not be tolerated. 
 
-## Repo-scpecific Links
+## Repo-scpecific Links 🔗
 This document describes the contributing guidelines for all my repos. The mentioned resources for a specific repo can be accessed as (replace `<repo>` with the repo's name): 
   - **Issues page**: `https://github.com/cmichelenstrofer/<repo>/issues`
   - **Pull requests**: `https://github.com/cmichelenstrofer/<repo>/pulls`
