@@ -16,7 +16,7 @@ assignees: ''
 **Expected behavior**
 [A clear and concise description of what you expected to happen.]
 
-**System:**
+**System**
  - OS: [e.g. iOS]
  - Julia version: [e.g. 1.8.1]
  - Package version: [e.g. 0.1.0]

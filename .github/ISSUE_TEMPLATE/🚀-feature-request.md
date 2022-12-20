@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-## 🚨 Checklist
-- [ ] A clear and concise description of the proposed feature. What's the problem being addressed? Have you considered any alternative solutions? 
-- [ ] Whether you are interested in leading or helping with the development of this feature.
-
 ## Feature Request
+[A clear and concise description of the proposed feature. What's the problem being addressed? Have you considered any alternative solutions? ]
+
+## Interested in leading or helping with the development of this feature?
+- [ ] 🚀 Yes! I can lead the development of this feature. 
+- [ ] 🤪 Hmmm.... maybe? Let's talk.
+- [ ] 👀 Nope! Wouldn't know where to start.

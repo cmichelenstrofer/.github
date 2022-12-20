@@ -2,7 +2,7 @@
 name: "❓ Question"
 about: Anything from basic usage to more advanced discussions.
 title: "❓ <Title>."
-labels: question
+labels: enhancement, question
 assignees: ''
 
 ---
