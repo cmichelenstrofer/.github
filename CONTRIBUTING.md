@@ -17,11 +17,11 @@ There are many ways to contribute to the code and community:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-Please adhere to the [code of conduct](CODE_OF_CONDUCT.md) and [report any abuse](mailto:c.michelen.strofer@gmail.com). 
+Please adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) and [report any abuse](mailto:c.michelen.strofer@gmail.com). 
 Remember that open source source development is a social process and we are in this together. 
-  - Be respectful and inclusive, everyone should feel welcomed. 
-  - Give credit. Respect copyright right laws. Acknowledge others that have helped you. 
-  - Any type of harrassment, including prejudiced or inapproriate comments and jokes, personal attacks, etc. will not be tolerated. 
+  - 💜 Be respectful and inclusive, everyone should feel welcomed. 
+  - 🙏🏽 Give credit. Respect copyright right laws. Acknowledge others that have helped you. 
+  - ❌ Any type of harrassment, including prejudiced or inapproriate comments and jokes or personal attacks, will not be tolerated. 
 
 ## Contributing changes 🛠️
 
