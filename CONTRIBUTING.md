@@ -40,10 +40,9 @@ At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-sta
   - Follow the [SciML style guide](https://github.com/SciML/SciMLStyle) 😎.
   - Familiarize yourself with the source code, documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
   - Know that your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
-
-The project's repository includes the following two files to assist developers:
-  - `.JuliaFormatter.toml`: Should be used to format the code using [JuliaFormatter](https://domluna.github.io/JuliaFormatter.jl/stable/) before pushing.
-  - `.project-words.txt`: A list of words that should be ignored by your spellchecker. 
+  - Use the following two files to assist you:
+    - `.JuliaFormatter.toml` to format the code using [JuliaFormatter](https://domluna.github.io/JuliaFormatter.jl/stable/) before pushing.
+    - `.project-words.txt` as a list of words to be ignored by your spellchecker. 
 
 ## Repo-scpecific Links 🔗
 This document describes the contributing guidelines for all my repos. The mentioned resources for a specific repo can be accessed as (replace `<repo>` with the repo's name): 
