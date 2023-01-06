@@ -28,6 +28,7 @@ Remember that open source source development is a social process and we are in t
 
 [![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac)
 [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 Contribute changes, including code and documentation, through *pull requests*. 
 
@@ -41,6 +42,7 @@ At the very minimum, follow the [GitHub Flow](https://docs.github.com/en/get-sta
   - Follow the [SciML style guide](https://github.com/SciML/SciMLStyle) 😎.
   - Familiarize yourself with the source code, documentation, testing, and CI in the repo, and update the documentation and testing when appropriate. 
   - Know that your submissions are understood to be under the same *MIT License* that covers the project. Feel free to [contact me](mailto:c.michelen.strofer@gmail.com) if that's a concern. 
+  - Use the [Conventional Commits](https://www.conventionalcommits.org/) to title pull requests. 
   - Use the following two files to assist you:
     - `.JuliaFormatter.toml` to format the code using [JuliaFormatter](https://domluna.github.io/JuliaFormatter.jl/stable/) before pushing.
     - `.project-words.txt` as a list of words to be ignored by your spellchecker. 
