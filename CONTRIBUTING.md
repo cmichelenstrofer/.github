@@ -1,5 +1,6 @@
 # Contributing 🎊
-Community contributions are welcome!
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 ### Types of contributions
 There are many ways to contribute to the code and community:
